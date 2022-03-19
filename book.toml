@@ -1,0 +1,6 @@
+[book]
+authors = ["Shyrwinsteel Sia"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Little Prince"

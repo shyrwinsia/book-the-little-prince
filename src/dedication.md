@@ -1,6 +1,6 @@
 # Dedication
 
- ![Image 0-2](assets/0-2.png)
+ ![Image 0-2](assets/0-2.jpg)
 
 ## To Leon Werth
 

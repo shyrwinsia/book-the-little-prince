@@ -10,7 +10,7 @@ So I lived my life alone, without anyone that I could really talk to, until I ha
 
 I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.
 
-![Image 2-1](assets/2-1.png)
+![Image 2-1](assets/2-1.jpg)
 
 That, however, is not my fault. The grown−ups discouraged me in my painter's career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside.
 
@@ -30,7 +30,7 @@ But I had never drawn a sheep. So I drew for him one of the two pictures I had d
 
 So then I made a drawing.
 
-![Image 2-2](assets/2-2.png)
+![Image 2-2](assets/2-2.jpg)
 
 He looked at it carefully, then he said:
 
@@ -38,7 +38,7 @@ He looked at it carefully, then he said:
 
 So I made another drawing.
 
-![Image 2-3](assets/2-3.png)
+![Image 2-3](assets/2-3.jpg)
 
 My friend smiled gently and indulgently.
 
@@ -46,7 +46,7 @@ My friend smiled gently and indulgently.
 
 So then I did my drawing over once more.
 
-![Image 2-4](assets/2-4.png)
+![Image 2-4](assets/2-4.jpg)
 
 But it was rejected too, just like the others.
 
@@ -54,7 +54,7 @@ But it was rejected too, just like the others.
 
 By this time my patience was exhausted, because I was in a hurry to start taking my engine apart. So I tossed off this drawing.
 
-![Image 2-5](assets/2-5.png)
+![Image 2-5](assets/2-5.jpg)
 
 And I threw out an explanation with it.
 

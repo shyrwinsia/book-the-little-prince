@@ -1,6 +1,6 @@
 # Chapter 1
 
- ![Image 1-1](assets/1-1.png)
+ ![Image 1-1](assets/1-1.jpg)
 
 Once when I was six years old I saw a magnificent picture in a book, called True
 Stories from Nature, about the primeval forest. It was a picture of a boa constrictor
@@ -14,7 +14,7 @@ I pondered deeply, then, over the adventures of the jungle. And after some work
 with a colored pencil I succeeded in making my first drawing. My Drawing
 Number One. It looked like this:
 
- ![Image 1-2](assets/1-2.png)
+ ![Image 1-2](assets/1-2.jpg)
 
 I showed my masterpiece to the grown−ups, and asked them whether the drawing
 frightened them.
@@ -27,7 +27,7 @@ made another drawing: I drew the inside of the boa constrictor, so that the
 grown−ups could see it clearly. They always need to have things explained. My
 Drawing Number Two looked like this:
 
- ![Image 1-3](assets/1-3.png)
+ ![Image 1-3](assets/1-3.jpg)
 
  The grown−ups' response, this time, was to advise me to lay aside my drawings of
 boa constrictors, whether from the inside or the outside, and devote myself instead

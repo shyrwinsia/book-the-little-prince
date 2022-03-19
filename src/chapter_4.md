@@ -1,24 +1,24 @@
 # Chapter 4
 
-![Image 4-1](assets/4-1.png)
+![Image 4-1](assets/4-1.jpg)
 
 I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house!
 
 But that did not really surprise me much. I knew very well that in addition to the great planets−− such as the Earth, Jupiter, Mars, Venus−− to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time seeing them through the telescope. When an astronomer discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325."
 
-![Image 4-2](assets/4-2.png)
+![Image 4-2](assets/4-2.jpg)
 
 I have serious reason to believe that the planet from which the little prince came is the asteroid known as B−612.
 
 This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
 
-![Image 4-3](assets/4-3.png)
+![Image 4-3](assets/4-3.jpg)
 
 On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration. But he was in Turkish costume, and so nobody would believe what he said.
 
 Grown−ups are like that...
 
-![Image 4-4](assets/4-4.png)
+![Image 4-4](assets/4-4.jpg)
 
 Fortunately, however, for the reputation of Asteroid B−612, a Turkish dictator made a law that his subjects, under pain of death, should change to European costume. So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance. And this time everybody accepted his report.
 

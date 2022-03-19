@@ -1,7 +1,7 @@
 # Summary
 # The Little Prince
 
-- [Cover](./cover.md)
+- [Cover](./index.md)
 - [Dedication](./dedication.md)
 - [Chapter 1](./chapter_1.md)
 - [Chapter 2](./chapter_2.md)

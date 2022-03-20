@@ -28,3 +28,5 @@
 - [Chapter 23](./chapter_23.md)
 - [Chapter 24](./chapter_24.md)
 - [Chapter 25](./chapter_25.md)
+- [Chapter 26](./chapter_26.md)
+- [Chapter 27](./chapter_27.md)

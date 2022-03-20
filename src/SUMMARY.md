@@ -19,3 +19,6 @@
 - [Chapter 14](./chapter_14.md)
 - [Chapter 15](./chapter_15.md)
 - [Chapter 16](./chapter_16.md)
+- [Chapter 17](./chapter_17.md)
+- [Chapter 18](./chapter_18.md)
+- [Chapter 19](./chapter_19.md)
